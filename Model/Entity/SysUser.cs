@@ -11,7 +11,6 @@ namespace Model.Entity
     public class SysUser
     {
         
-
             [SugarColumn(IsPrimaryKey = true)]
             public long user_id { get; set; }
 

@@ -120,3 +120,9 @@ D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net
 D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\krb5_64.dll
 D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\krbcc64.dll
 D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\Interface.dll
+D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\Service.dll
+D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\Interface.pdb
+D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\Service.pdb
+D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\AutoMapper.dll
+D:\项目\回转柜\code\project\RCWebApplication\RCWebApplication\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
